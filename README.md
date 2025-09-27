@@ -7,7 +7,7 @@ Incluye autenticación con **JWT**, asociación de productos al usuario logueado
 
 ## ⚙️ Instalación
 
-1. Clonar el repositorio y entrar al proyecto:
+1. entrar al proyecto:
 
 ```bash
 git clone <TU_REPO_URL>
